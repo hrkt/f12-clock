@@ -35,20 +35,30 @@ Humor matters.
 
 (*1)...
 
-1. use npm https://www.npmjs.com/package/f12-clock
+
+#### method 1: use CDN
 
 ```
-npm i f12-clock --save-dev 
+<script src="https://cdn.jsdelivr.net/npm/f12-clock@0.1.0/dist/f12-clock.js"></script>
 ```
 
-2. copy file from girhub 
+#### method 2: copy a file from GitHub and place it into your project
+
+f12-clock has no dependency, so simply download and use it.
 
 ```
 dist/f12-clock.js
-
+```
 or
 
+```
 dist/f12-clock-min.js
+```
+
+#### method 3: use npm https://www.npmjs.com/package/f12-clock
+
+```
+npm i f12-clock --save-dev 
 ```
 
 ## Tested on
