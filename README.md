@@ -4,7 +4,7 @@ A Zen-styled programmer's clock in the HTML comments.
 
 Humor matters.
 
-[GIF Animation](./doc/f12-clock.gif)
+![GIF Animation](./doc/f12-clock.gif)
 
 ## features
 
