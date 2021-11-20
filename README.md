@@ -22,7 +22,7 @@ Humor matters.
 1. import f12-clock.js (*1)
 2. add id to the tag use choose
 
-```
+```html
 <!DOCTYPE html>
 <html id="f12-clock">
   <head><title>f12-clock - Press F12 to show it</title></head>
