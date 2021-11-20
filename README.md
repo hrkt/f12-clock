@@ -6,6 +6,10 @@ Humor matters.
 
 ![GIF Animation](./doc/f12-clock.gif)
 
+## Demo site
+
+[Demo site](http://hrkt.github.io/f12-clock/)
+
 ## features
 
 - f12-clock run in "F12" developers console via HTML comment
