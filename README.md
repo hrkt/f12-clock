@@ -51,7 +51,13 @@ or
 dist/f12-clock-min.js
 ```
 
+## Tested on
 
+|OS|Browser|Status|
+|--|--|--|
+|Windows|Firefox 94|✅|
+|Windows|Chrome 96.0|✅|
+|macOS|Safari 15.0|✅|
 
 
 ## Future work
